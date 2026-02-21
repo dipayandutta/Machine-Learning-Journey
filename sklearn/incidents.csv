@@ -1,0 +1,7 @@
+disk_used,mem_used,restart_count,avc_denied,root_cause
+95,40,0,1,selinux_policy
+92,35,1,1,selinux_policy
+20,90,0,0,memory_pressure
+25,85,0,0,memory_pressure
+40,30,5,0,service_crash
+45,35,7,0,service_crash
